@@ -20,3 +20,5 @@ Connect with me:
 
 Languages and Tools:
 [vscode] [html5] [css3] [javascript] [git] [github] 
+
+[![Iago Balbino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagobalbino)](https://github.com/iagobalbino/github-readme-stats)
