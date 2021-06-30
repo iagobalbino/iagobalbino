@@ -8,7 +8,9 @@ Oi, eu sou Iago Balbino <br>
 - 🔭 I’m currently a freenlance front-end developer
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with React.js
-- 🥅 2021 Goals: Start my first job with front-end developer<br>
+- 🥅 2021 Goals: Start my first job with front-end developer
+
+<br>
 
 - 🔭 Atualmente eu sou um desenvolvedor front-end freenlance
 - 🌱 Atualmente estudo Javascript
