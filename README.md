@@ -68,7 +68,7 @@ Linguagens e ferramentas <br>
   <img allign="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iagobalbino"/>
 </a> -->
 
-[![Iago Balbino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino/github-readme-stats)]
+[![Iago Balbino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino&theme=tokyonight/github-readme-stats) -->
 
