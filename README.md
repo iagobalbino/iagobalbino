@@ -1,4 +1,5 @@
 ## Hi there, I'm [Iago Balbino][website] 👋
+
 Oi, eu sou Iago Balbino <br>
 
 <!--
@@ -24,12 +25,13 @@ Oi, eu sou Iago Balbino <br>
 - ⚡ Fun fact: ... -->
 
 ### Connect with me:
+
 Conecte-se comigo <br>
 
 [<img align="left" alt="iagobalbino.com.br" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website][<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
 
-
 ### Languages and Tools:
+
 Linguagens e ferramentas <br>
 
 <p>
@@ -59,8 +61,6 @@ Linguagens e ferramentas <br>
 
 </p>
 
-
-
 <!-- <a href="https://github.com/iagobalbino/iagobalbino">
   <img allign="center" src="https://github-readme-stats.vercel.app/api?username=iagobalbino&theme=tokyonight"/>
 </a>
@@ -70,7 +70,7 @@ Linguagens e ferramentas <br>
 
 [![Iago Balbino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino/github-readme-stats)]
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino&theme=tokyonight/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino&theme=tokyonight/github-readme-stats)
 
 <!-- [![iagobalbino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iagobalbino)](https://github.com/iagobalbino/github-readme-stats) -->
 
