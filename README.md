@@ -8,7 +8,7 @@ Oi, eu sou Iago Balbino <br>
 
 - 🔭 I’m currently a freenlance front-end developer
 - 🌱 I’m currently learning Javascript
-- 🥅 2023 Goals: Start my first job with front-end developer
+- 🥅 2024 Goals: Start my first job with front-end developer
 
 <br>
 
