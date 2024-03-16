@@ -14,7 +14,7 @@ Oi, eu sou Iago Balbino <br>
 
 - 🔭 Atualmente eu sou um desenvolvedor front-end freenlance
 - 🌱 Atualmente estudo Javascript
-- 🥅 Objetivos de 2023: Conseguir meu primeiro emprego como desenvolvedor front-end
+- 🥅 Objetivos de 2024: Conseguir meu primeiro emprego como desenvolvedor front-end
 
 <!-- - 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
