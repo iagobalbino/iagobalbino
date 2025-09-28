@@ -7,29 +7,17 @@ Oi, eu sou Iago Balbino <br>
 -->
 
 - 🔭 I’m currently a freenlance front-end developer
-- 🌱 I’m currently learning Javascript
-- 🥅 2024 Goals: Start my first job with front-end developer
+- 🌱 I’m currently learning Javascript and React.JS
+- 🥅 2025 Goals: Start my first job with front-end developer
 
 <br>
 
 - 🔭 Atualmente eu sou um desenvolvedor front-end freenlance
-- 🌱 Atualmente estudo Javascript
-- 🥅 Objetivos de 2024: Conseguir meu primeiro emprego como desenvolvedor front-end
+- 🌱 Atualmente estudo Javascript e React.JS
+- 🥅 Objetivos de 2025 Conseguir meu primeiro emprego como desenvolvedor front-end
 
-<!-- - 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-### Connect with me:
-
-Conecte-se comigo <br>
-
-[<img align="left" alt="iagobalbino.com.br" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website][<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
 
 ### Languages and Tools:
-
 Linguagens e ferramentas <br>
 
 <p>
@@ -55,6 +43,10 @@ Linguagens e ferramentas <br>
     <img align="left" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/>
   </a>
 
+  <a href="https://react.dev/" target="_blank">
+    <img align="left" alt="javascript" src="https://react.dev/images/brand/logo_dark.svg" alt="React.JS" width="26" height="26"/>
+  </a>
+
 <br>
 
 </p>
@@ -66,9 +58,9 @@ Linguagens e ferramentas <br>
   <img allign="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iagobalbino"/>
 </a> -->
 
-[![Iago Balbino's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iagobalbino&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagobalbino&theme=tokyonight)](https://github.com/iagobalbino&theme=tokyonight/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iagobalbino&theme=radical)
 
 <!-- [![iagobalbino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iagobalbino)](https://github.com/iagobalbino/github-readme-stats) -->
 
