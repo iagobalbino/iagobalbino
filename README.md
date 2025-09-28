@@ -51,12 +51,9 @@ Linguagens e ferramentas <br>
 
 </p>
 
-<!-- <a href="https://github.com/iagobalbino/iagobalbino">
-  <img allign="center" src="https://github-readme-stats.vercel.app/api?username=iagobalbino&theme=tokyonight"/>
-</a>
-<a href="https://github.com/iagobalbino/github-readme-stats">
-  <img allign="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iagobalbino"/>
-</a> -->
+### Stats:
+Estatísticas
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iagobalbino&theme=radical)
 
